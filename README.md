@@ -110,7 +110,7 @@ print(f"sharpe for risk free overnigh {rf}:",(w_best@R-rf)/np.sqrt(w_best.T@C@w_
 
 
     
-![png]([output_8_0.png](https://github.com/ramazanCevik/markowitz-model/blob/cad32bfb46b1c98596769ecb08c8cf8c20761d82/images/output_8_0.png))
+![png](/images/output_8_0.png?raw=true)
     
 
 
