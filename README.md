@@ -80,7 +80,7 @@ plt.show()
 
 
     
-![png](https://github.com/ramazanCevik/markowitz-model/blob/cad32bfb46b1c98596769ecb08c8cf8c20761d82/images/output_6_0.png)
+![png](./images/output_6_0.png)
     
 
 
